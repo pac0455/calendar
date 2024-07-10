@@ -1,0 +1,22 @@
+.evento{
+    cursor: pointer;
+    transition: 500ms;
+}
+.evento:hover{
+    transition: 500ms;
+    transform: translateY(-10px)
+}
+.custom-bg{
+    background-color: #0d3472;
+}
+.custom-item-nav{
+    color: white;
+}
+.nav-pills .nav-link
+{
+    color: white;
+}
+.btn-sidebar{
+    color: white;
+    background-color: #0D6EFD;
+}
